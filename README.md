@@ -4,7 +4,7 @@
 
 `Flutter` 相信大家已经不再陌生了! 在 2018-2020 无论从实际开发到面试,`Flutter`已经走入移动开发 (`Android / iOS`). 本人针对 `Flutter` 的表现, 真心觉得 `Flutter` 有必要真正掌握. 可能很多开发人员觉得学习一门新的语言是一件比较难的事情,其实不然.只要你掌握好了你目前主流语言 , 甚至都不需要掌握很底层 你都可以很轻松入门 `Flutter` (主要是容易学). 但是很难坚持,所以为了大家更好的体验效果,我花了一定时间给大家整理了这么一个专栏 **`Flutter 从入门到offer`**  希望你能够喜欢.
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7c997162deb4a54bcd8f3da9c350566~tplv-k3u1fbpfcp-watermark.image)
+![](图片资源/fluter_app_image.png)
 
 ### 二、🎅Flutter-从入门到项目 已更新🎅 
 

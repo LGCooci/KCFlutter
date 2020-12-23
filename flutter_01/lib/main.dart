@@ -2,6 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_01/KCListViewDemo.dart';
 import 'KCBar.dart';
+import 'KCBaseWidget.dart';
 import 'KCWidget.dart';
 import 'KCCar.dart';
 
@@ -15,8 +16,8 @@ import 'KCCar.dart';
 // void main() => runApp(KCBar());
 
 // Demo3 ListView 展示数据
+// Demo4 富文本
 void main() => runApp(ListViewApp());
-
 
 class ListViewApp extends StatelessWidget {
   @override
@@ -37,10 +38,11 @@ class ListViewHome extends StatelessWidget {
       appBar: AppBar(
         title: Text('KCCarList', style: TextStyle(color: Colors.white)),
       ),
-      body: KCListView()
+      body: KCRichTextDemo()
     );
   }
 }
+
 
 
 
