@@ -2,7 +2,17 @@
 
 ![](图片资源/flutter650*280灰色.jpg)
 
-### 一、🎅Flutter的特性🎅 
+### 一、Flutter-从入门到项目 持续更新中
+
+[Flutter-从入门到项目 01: Flutter重要性](https://juejin.cn/post/6907217804764643336) 
+
+[Flutter-从入门到项目 02: 环境配置](https://juejin.cn/post/6907607707549696013)
+
+[Flutter-从入门到项目 03: Flutter初体验](https://juejin.cn/post/6909347907321724942)
+
+[Flutter-从入门到项目 04:Dart语法快速掌握(上)](https://juejin.cn/post/6915388720326082568)
+
+### 二、Flutter的特性
 
 | Flutter招聘公司 | 薪资水平| Flutter招聘公司 | 薪资水平   |
 |:-------------:|:--------:|:-------------:|:--------:|
@@ -29,14 +39,6 @@
 *  在 `StackOverflow 2019` 年的全球开发者问卷调查中，`Flutter` 被选为最受开发者欢迎的框架之一，超过了 `TensorFlow` 和 `Node.js`。
 
 ![](图片资源/fluter_app_image.png)
-
-### 二、🎅Flutter-从入门到项目 已更新🎅 
-
-[Flutter-从入门到项目 01: Flutter重要性](https://juejin.cn/post/6907217804764643336) 
-
-[Flutter-从入门到项目 02: 环境配置](https://juejin.cn/post/6907607707549696013)
-
-[Flutter-从入门到项目 03: Flutter初体验](https://juejin.cn/post/6909347907321724942)
 
 
 > 持续更新中,喜欢的可以点赞收藏.
