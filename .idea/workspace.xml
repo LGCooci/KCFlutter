@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbe884f3-0de2-41df-95b7-8b5fdfefc736" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/KCFlutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_layout_status/lib/KCCar.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nxjGTIHBzmQGIv0LTZfgiOvkse" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="settings.editor.splitter.proportion" value="0.22358555" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart (1)">
+    <configuration name="main.dart (1)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_layout_status/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_02/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mian.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_01/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.mian.dart" />
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter.main.dart (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart (1)" />
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbe884f3-0de2-41df-95b7-8b5fdfefc736" name="Default Changelist" comment="" />
+      <created>1612338539043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612338539043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="207" width="1358" height="798" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612342039212">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="353" y="207" width="1358" height="798" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612342039212" />
+    <state x="638" y="302" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1612340657565">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="638" y="302" key="#com.intellij.ide.util.TreeFileChooserDialog/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612340657565" />
+    <state width="1730" height="403" key="GridCell.Tab.0.bottom" timestamp="1612352261507">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1730" height="403" key="GridCell.Tab.0.bottom/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612352261507" />
+    <state width="1730" height="403" key="GridCell.Tab.0.center" timestamp="1612352261507">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1730" height="403" key="GridCell.Tab.0.center/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612352261507" />
+    <state width="1730" height="403" key="GridCell.Tab.0.left" timestamp="1612352261506">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1730" height="403" key="GridCell.Tab.0.left/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612352261506" />
+    <state width="1730" height="403" key="GridCell.Tab.0.right" timestamp="1612352261507">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1730" height="403" key="GridCell.Tab.0.right/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612352261507" />
+    <state x="162" y="33" key="SettingsEditor" timestamp="1612338725315">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="162" y="33" key="SettingsEditor/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612338725315" />
+    <state x="341" y="184" key="Vcs.Push.Dialog.v2" timestamp="1612341239080">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="341" y="184" key="Vcs.Push.Dialog.v2/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612341239080" />
+  </component>
+</project>
