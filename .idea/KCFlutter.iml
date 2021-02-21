@@ -23,9 +23,15 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_02/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_02/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_02/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layout/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_layout_status/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_layout_status/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_layout_status/build" />
+      <excludeFolder url="file://$MODULE_DIR$/wecaht/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/wecaht/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wecaht/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
