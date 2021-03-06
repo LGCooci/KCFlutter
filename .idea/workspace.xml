@@ -20,70 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbe884f3-0de2-41df-95b7-8b5fdfefc736" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/KCFlutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KCFlutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wecaht/images/add_status.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wecaht/images/cooci.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wecaht/images/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wecaht/lib/pages/minePages/kc_mine_detailpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wecaht/lib/pages/minePages/kc_mine_seticonpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wecaht/lib/pages/minePages/kc_minepage.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/kotlin/com/lg/flutter_layout_status/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/lib/KCCar.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_layout_status/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wecaht/images/微信 支付.png" beforeDir="false" afterPath="$PROJECT_DIR$/wecaht/images/微信支付.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wecaht/lib/kc_rootpage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/wecaht/lib/kc_rootpage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wecaht/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/wecaht/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wecaht/lib/pages/discover/kc_discover_cell.dart" beforeDir="false" afterPath="$PROJECT_DIR$/wecaht/lib/pages/discover/kc_discover_cell.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wecaht/lib/pages/discover/kc_discoverpage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/wecaht/lib/pages/discover/kc_discoverpage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wecaht/lib/pages/kc_minepage.dart" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +51,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nxjGTIHBzmQGIv0LTZfgiOvkse" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -118,7 +70,7 @@
     <property name="settings.editor.splitter.proportion" value="0.22358555" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Flutter.main.dart (1)">
+  <component name="RunManager" selected="Flutter.mian.dart">
     <configuration name="main.dart (1)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/flutter_layout_status/lib/main.dart" />
       <method v="2" />
@@ -177,6 +129,10 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="638" y="302" key="#com.intellij.ide.util.TreeFileChooserDialog/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1612340657565" />
+    <state x="384" y="190" key="#main.dart_(1)" timestamp="1614774807948">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="384" y="190" key="#main.dart_(1)/1792.65.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614774807948" />
     <state width="1730" height="249" key="GridCell.Tab.0.bottom" timestamp="1612359500726">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>

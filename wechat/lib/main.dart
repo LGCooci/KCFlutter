@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:wecaht/kc_rootpage.dart';
 
 void main() {
   runApp(MyApp());
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle.dark);
 }
 
 class MyApp extends StatelessWidget {
@@ -14,7 +16,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         highlightColor: Color.fromARGB(1, 0, 0, 0),
         splashColor: Color.fromARGB(1, 0, 0, 0),
-        primarySwatch: Colors.yellow,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: KCRootPage(),

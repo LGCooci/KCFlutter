@@ -24,58 +24,30 @@ class _KCDiscoverPageState extends State<KCDiscoverPage> {
             KCDiscoverCell(
               imageName: 'images/朋友圈.png',
               title: '朋友圈',
+              linetype: '1',
             ),
-            SizedBox(height: 10,),
             KCDiscoverCell(
               imageName: 'images/扫一扫.png',
               title: '扫一扫',
-            ),
-            Row(
-              children: <Widget>[
-                Container(
-                  width: 50,
-                  height: 0.5,
-                  color: Colors.white,
-                ),
-                Container(
-                  height: 0.5,
-                ),
-              ],
+              linetype: '1',
             ),
             KCDiscoverCell(
               imageName: 'images/摇一摇.png',
               title: '摇一摇',
             ),
-            SizedBox(height: 10,),
             KCDiscoverCell(
               imageName: 'images/看一看.png',
               title: '看一看',
             ),
-            Row(
-              children: <Widget>[
-                Container(
-                  width: 50,
-                  height: 0.5,
-                  color: Colors.white,
-                ),
-                Container(
-                  height: 0.5,
-                ),
-              ],
-            ),
             KCDiscoverCell(
               imageName: 'images/搜一搜.png',
               title: '搜一搜',
-            ),
-            SizedBox(
-              height: 10,
+              linetype: '1',
             ),
             KCDiscoverCell(
               imageName: 'images/附近的人.png',
               title: '附近的人',
-            ),
-            SizedBox(
-              height: 10,
+              linetype: '1',
             ),
             KCDiscoverCell(
               imageName: 'images/购物.png',
@@ -83,18 +55,10 @@ class _KCDiscoverPageState extends State<KCDiscoverPage> {
               subTitle: '618限时特价',
               subImageName: 'images/badge.png',
             ),
-            Row(
-              children: <Widget>[
-                Container(width: 50, height: 0.5, color: Colors.white),
-                Container(height: 0.5, color: Colors.grey)
-              ],
-            ),
             KCDiscoverCell(
               imageName: 'images/游戏.png',
               title: '游戏',
-            ),
-            SizedBox(
-              height: 10,
+              linetype: '1',
             ),
             KCDiscoverCell(
               imageName: 'images/小程序.png',

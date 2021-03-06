@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:wecaht/pages/kc_chatpage.dart';
 import 'package:wecaht/pages/discover/kc_discoverpage.dart';
 import 'package:wecaht/pages/kc_friendspage.dart';
-import 'package:wecaht/pages/kc_minepage.dart';
+import 'package:wecaht/pages/minePages/kc_minepage.dart';
 
 class KCRootPage extends StatefulWidget {
   @override
@@ -10,7 +10,7 @@ class KCRootPage extends StatefulWidget {
 }
 
 class _KCRootPageState extends State<KCRootPage> {
-  int _currentIndex = 2;
+  int _currentIndex = 3;
   List<Widget> _pages = [KCChatPage(),KCFriendsPage(),KCDiscoverPage(),
     KCMinePage()];
   @override
